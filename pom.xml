@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>hsbcweb</finalName>
+    <finalName>hsbcweb-$(project.version)</finalName>
   </build>
 </project>
